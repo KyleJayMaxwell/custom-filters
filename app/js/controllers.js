@@ -12,6 +12,9 @@ app.controller('myController', function($scope) {
     },
     {
       name: 'Zach'
+    },
+    {
+      name: 'Antony'
     }
   ];
 
